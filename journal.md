@@ -88,8 +88,12 @@ Final touch-ups. I heat-shrunk all connections, sealed the housing, and labeled 
 - ![alt text](photos/imag2.png) 
 - ![alt text](photos/imag3.png) 
 - ![alt text](photos/imag4.png) 
-- ![alt text](photos/imag5.png) 
+- ![alt text](photos/imag5.png)
+- ![alt text](photos/1.jpg)
+- ![alt text](photos/2.jpg)
+- ![alt text](photos/3.jpg)
 - ![alt text](vid1.gif)
 - ![alt text](vid2.gif)
 - ![alt text](vid3.gif)
+
 
