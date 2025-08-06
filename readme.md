@@ -14,7 +14,16 @@ It’s not just a microphone. It’s a live acoustic effect chamber in your hand
 - ![alt text](photos/imag2.png) 
 - ![alt text](photos/imag3.png) 
 - ![alt text](photos/imag4.png) 
-- ![alt text](photos/imag5.png) 
+- ![alt text](photos/imag5.png)
+
+
+## Diagram
+
+
+- ![alt text](photos/1.jpg)
+- ![alt text](photos/2.jpg)
+- ![alt text](photos/3.jpg)
+
 ---
 
 ## Bill of Materials
@@ -38,5 +47,6 @@ It’s not just a microphone. It’s a live acoustic effect chamber in your hand
 **Total Cost = $296**
 
 ---
+
 
 
