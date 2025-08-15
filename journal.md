@@ -18,6 +18,8 @@ The fantastic odyssey started.
 Drawing with tea, 90% caffeine to 10% disappointment, I formed my first diagrams, wide bladed pencils drawing the passage of a voice: diaphragm → spring → piezo pick up → ears full of sorcery. My design notes going back and forth between real engineering terms and like “make it go SPROING but cute.”
 
 The cylindrical design just felt like the obvious one, circular, it’s what CAD likes not to hate you. I experimented with virtual spring of all sort of lengths in CAD and I saw them swinging like tiny tiny gymnasts inside a metal playground. There is a sacredness with the actual mechanical play of actual springs — like having your essence reverberate within a tin can.
+
+
 ![alt text](photos/imag1.png)
 
 ---
@@ -137,6 +139,7 @@ Not printed, not assembled, but alive in spirit. Somewhere in the digital realm,
 - ![alt text](photos/vid1.gif)
 - ![alt text](photos/vid2.gif)
 - ![alt text](photos/vid3.gif)
+
 
 
 
