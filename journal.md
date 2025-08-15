@@ -135,10 +135,11 @@ Not printed, not assembled, but alive in spirit. Somewhere in the digital realm,
 
 ---
 
-### This is so vids from making the 3d models in tinkercad 
+### This is some short vids from making the 3d models in tinkercad 
 - ![alt text](photos/vid1.gif)
 - ![alt text](photos/vid2.gif)
 - ![alt text](photos/vid3.gif)
+
 
 
 
