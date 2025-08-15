@@ -110,9 +110,10 @@ The home straight. I drew a schematic of all the wires, put heat shrink tubing i
 ![alt text](photos/3.jpg)
 
 ---
-### must be downloaded to see the gifs
+### 
 - ![alt text](photos/vid1.gif)
 - ![alt text](photos/vid2.gif)
 - ![alt text](photos/vid3.gif)
+
 
 
