@@ -32,7 +32,7 @@ It’s not just a microphone. It’s a live acoustic effect chamber in your hand
 |--|-----------|-------------|--------------|------|
 | 1 | Piezo Element (27mm) | Converts vibration to signal | $8 | [Link](https://www.amazon.com/Piezoelectric-Disk-Vibration-Sensor/dp/B07PGBXHQP) |
 | 2 | Shielded Audio Cable + ¼″ Jack | Audio output | $12 | [Link](https://www.amazon.com/Audio-Cable-Shielded-Microphone/dp/B07ZVZ97C7) |
-| 3 | Music/Guitar String | Spring element | $7 | — |
+| 3 | Music/Guitar String | Spring element | $27 |  [Link]([https://www.amazon.com/Audio-Cable-Shielded-Microphone/dp/B07ZVZ97C7](https://www.stringsbymail.com/aurora-electric-bass-strings-coated-black-4-string-set-45-105-24785.html) |
 | 4 | Machine Screws + Nuts (brass) | Membrane mounting | $11 | — |
 | 5 | 3D-Printed PLA Enclosure | Custom housing | $25 | — |
 | 6 | Preamp Module (JRC4558) | Amplifies piezo signal | $22 | [Link](https://www.ebay.com/itm/388750174393) |
@@ -44,9 +44,10 @@ It’s not just a microphone. It’s a live acoustic effect chamber in your hand
 |12 | USB 24-bit Sound Card | PC audio capture | $30 | — |
 |13 | Tube Preamp Module | Warmth + gain | $70 | — |
 
-**Total Cost = $296**
+**Total Cost = $316**
 
 ---
+
 
 
 
