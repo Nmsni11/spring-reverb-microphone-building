@@ -39,14 +39,15 @@ It’s not just a microphone. It’s a live acoustic effect chamber in your hand
 | 7 | Low-Noise XLR Preamp | Clean interface gain | $70 | [Link](https://www.amazon.com/MAONO-USB-Audio-Interface-Home-Studio/dp/B0D9P3Y22C) |
 | 8 | Spring Tension Knob & Mounts | Adjustable tone | $12 | — |
 | 9 | Soldering Iron Kit | Safe connections | $25 | [Link](https://www.amazon.com/Soldering-Interchangeable-Adjustable-Temperature-Enthusiast/dp/B07XSHCY7P?th=1) |
-|10 | DIY Isolation Mount | Minimizes handling noise | $8 | — |
-|11 | Cable Strain Relief Kit | Protects joints | $10 | — |
+|10 | DIY Isolation Mount | Minimizes handling noise | $8 | [Link](https://www.amazon.eg/-/en/SoundRound-Sonic-Geometrics-Acoustic-Panels/dp/B0FD52QL7B/) |
+|11 | Cable Strain Relief Kit | Protects joints | $10 | [Link](https://www.amazon.eg/-/en/QSJXZGH-Ratio-Heat-Shrink-Electrical-Insulation/dp/B0BY4HBFX5/) |
 |12 | USB 24-bit Sound Card | PC audio capture | $20 | [Link](https://shuttershopegypt.com/en/shop-2/ugreen-usb-external-stereo-sound-adapter-15cm-black/?utm_source=Google+Shopping&utm_medium=cpc&utm_campaign=googleshopfeed&gad_source=1&gad_campaignid=19647181422&gbraid=0AAAAAC4EBe5fKmwzIYakJiQtyk5BdRCQ7&gclid=CjwKCAjwtfvEBhAmEiwA-DsKjkia045rc8X7Zj7yon_EIvRPYcxzsEx1tD9IFxGOPA_NlHUvmNo2_xoC6q4QAvD_BwE) |
-|13 | Tube Preamp Module | Warmth + gain | $70 | — |
+|13 | Tube Preamp Module | Warmth + gain | $70 | [Link](https://www.amazon.eg/-/en/10Pcs-TDA2030A-Hi-Fi-Amplifier-Driver/dp/B0CM277RPV/) |
 
 **Total Cost = $320**
 
 ---
+
 
 
 
