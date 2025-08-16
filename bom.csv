@@ -1,16 +1,17 @@
 Component,Description,Price (USD),Link
 Piezo Element (27 mm),Converts vibration to signal,8,https://www.amazon.com/Piezoelectric-Disk-Vibration-Sensor/dp/B07PGBXHQP
 Shielded Audio Cable + ¼″ Jack,Audio output cable,12,https://www.amazon.com/Audio-Cable-Shielded-Microphone/dp/B07ZVZ97C7
-Music/Guitar String,Spring transmission medium,7,
-Machine Screws + Nuts,Brass tension mounts,11,
+Music/Guitar String,Spring transmission medium,11,https://www.amazon.eg/-/en/Elixir-Nanoweb-Nickel-Electric-Strings/dp/B0002E1O2W/
+Machine Screws + Nuts,Brass tension mounts,5,https://www.amazon.eg/-/en/Mellewell-Sets-M6-1-00-Screws-Bolts/dp/B08693H8LT/
 3D-Printed PLA Enclosure,Custom-designed cylindrical body,25,
 Preamp Module (JRC4558),First-stage analog amplifier,22,https://www.ebay.com/itm/388750174393
 Low-Noise XLR Preamp,Main preamp for signal capture,70,https://www.amazon.com/MAONO-USB-Audio-Interface-Home-Studio/dp/B0D9P3Y22C
-Spring Tension Knob & Mounts,Tone adjustment mechanism,12,
-Solder & Heat-Sink Kit,Protection and shielding,11,
-DIY Isolation Mount,Foam + screws for vibration reduction,8,
-Cable Strain Relief Kit,Prevents cable damage,10,
-USB 24-bit Sound Card,PC-ready interface,30,
-Tube Preamp Module,Final-stage tone warmer,70,
+Spring Tension Knob & Mounts,Tone adjustment mechanism,10,https://www.amazon.eg/-/en/PRINTER-LEVELING-SCREW-SPRING-HAND/dp/B09Z377BH4/
+Solder & Heat-Sink Kit,Protection and shielding,18,https://www.amazon.eg/-/en/DIY-Kit-Heatsink-Thermoelectric-Cooler-Peltier/dp/B0DCC9YX2P/
+DIY Isolation Mount,Foam + screws for vibration reduction,12,https://www.amazon.eg/-/en/SoundRound-Sonic-Geometrics-Acoustic-Panels/dp/B0FD52QL7B/
+3 * Cable Strain Relief Kit,Prevents cable damage,18,https://www.amazon.eg/-/en/QSJXZGH-Ratio-Heat-Shrink-Electrical-Insulation/dp/B0BY4HBFX5/
+USB 24-bit Sound Card,PC-ready interface,10,https://www.amazon.eg/-/en/UGREEN-External-Stereo-Adapter-Control/dp/B07K2GNF5W/
+4 * Tube Preamp Module,Final-stage tone warmer,28,https://www.amazon.eg/-/en/10Pcs-TDA2030A-Hi-Fi-Amplifier-Driver/dp/B0CM277RPV/
 
-,Total,296,
+,Total,249,
+
