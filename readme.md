@@ -33,11 +33,11 @@ It’s not just a microphone. It’s a live acoustic effect chamber in your hand
 | 1 | Piezo Element (27mm) | Converts vibration to signal | $8 | [Link](https://www.amazon.com/Piezoelectric-Disk-Vibration-Sensor/dp/B07PGBXHQP) |
 | 2 | Shielded Audio Cable + ¼″ Jack | Audio output | $12 | [Link](https://www.amazon.com/Audio-Cable-Shielded-Microphone/dp/B07ZVZ97C7) |
 | 3 | Music/Guitar String | Spring element | $27 |  [Link](https://www.stringsbymail.com/aurora-electric-bass-strings-coated-black-4-string-set-45-105-24785.html) |
-| 4 | Machine Screws + Nuts (brass) | Membrane mounting | $11 | — |
+| 4 | Machine Screws + Nuts (brass) | Membrane mounting | $11 | [Link](https://www.amazon.eg/-/en/Mellewell-Sets-M6-1-00-Screws-Bolts/dp/B08693H8LT/) |
 | 5 | 3D-Printed PLA Enclosure | Custom housing | $25 | — |
 | 6 | Preamp Module (JRC4558) | Amplifies piezo signal | $22 | [Link](https://www.ebay.com/itm/388750174393) |
 | 7 | Low-Noise XLR Preamp | Clean interface gain | $70 | [Link](https://www.amazon.com/MAONO-USB-Audio-Interface-Home-Studio/dp/B0D9P3Y22C) |
-| 8 | Spring Tension Knob & Mounts | Adjustable tone | $12 | — |
+| 8 | Spring Tension Knob & Mounts | Adjustable tone | $12 | [Link](https://www.amazon.eg/-/en/PRINTER-LEVELING-SCREW-SPRING-HAND/dp/B09Z377BH4/) |
 | 9 | Soldering Iron Kit | Safe connections | $25 | [Link](https://www.amazon.com/Soldering-Interchangeable-Adjustable-Temperature-Enthusiast/dp/B07XSHCY7P?th=1) |
 |10 | DIY Isolation Mount | Minimizes handling noise | $8 | [Link](https://www.amazon.eg/-/en/SoundRound-Sonic-Geometrics-Acoustic-Panels/dp/B0FD52QL7B/) |
 |11 | Cable Strain Relief Kit | Protects joints | $10 | [Link](https://www.amazon.eg/-/en/QSJXZGH-Ratio-Heat-Shrink-Electrical-Insulation/dp/B0BY4HBFX5/) |
@@ -47,6 +47,7 @@ It’s not just a microphone. It’s a live acoustic effect chamber in your hand
 **Total Cost = $320**
 
 ---
+
 
 
 
